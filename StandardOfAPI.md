@@ -32,7 +32,7 @@
 
 例如：
 > {
-	> createdAt:1461943200000,
+	createdAt:1461943200000,
 	goods:[{name:'商品1',price:13.45},{name:'商品2',price:13.45}]
 	}
 
