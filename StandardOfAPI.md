@@ -82,11 +82,11 @@
 
 不推荐：
 
-    `{code：0,message:'保存成功',result:{id:233121212}}`
+     {code：0,message:'保存成功',result:{id:233121212}}
 
 推荐：
 
-    `{code：0,message:'保存成功',result:233121212}`
+     {code：0,message:'保存成功',result:233121212}
 
 
 
