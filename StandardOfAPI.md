@@ -38,7 +38,8 @@
 
 注：
 - 输入应尽量减少参数为对象的情况，例如
->{user:{name:'zhangsan',age:17,gender:'男'}
+
+> {user:{name:'zhangsan',age:17,gender:'男'}
 
 ### 输出规范
 - 输出数据格式一定为JSON
