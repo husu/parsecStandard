@@ -11,7 +11,7 @@
 <tr>
 	<td>0.1</td>
 	<td>2016年9月2日</td>
-	<td>创建文档</td>
+	<td>创建tower使用文档</td>
 </tr>
 </table>
 
